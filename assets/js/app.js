@@ -72,7 +72,7 @@ yText .append("text")
     .attr("data-name", "obesity")
     .attr("data-axis", "y")
     .attr("class", "aText active y")
-    .text("Obese (%)");
+    .text("Obesity (%)");
 
 yText .append("text")
     .attr("y", 0)
